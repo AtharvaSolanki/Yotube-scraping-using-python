@@ -1,0 +1,276 @@
+,Channel Name,Video Title,Views,Likes,comments,Definition,Dimension,Description,tags
+0,Coding 101 with Steve,Instagram bot python (Instagram automation with python instabot) [2022],68108,1445,190,hd,2d,"In this video I am going show you how to create your own Instagram bot using python. It will be a combination of bots such as Instagram follow/unfollow bot, Instagram dm bot, Instagram comment bot, like bot and upload photo bot.
+
+So just by writing few lines of code, we are going to do Instagram automation with python and use a python package name instabot
+
+Timestamps:
+0:00 - Instagram bot python introduction - Instagram Automation
+0:26 - Prerequisite
+0:57 - Install instabot python package
+1:51 - Intagram login
+2:37 - Instagram follow and unfollow
+5:44 - Instagram post (upload photo)
+6:36 - Instagram dm bot (send message)
+7:20 - Instagram like bot (like a post)
+7:52 - Instagram comment bot (comment on a post)
+9:39 - Get the list of followers/following
+12:56 - Fixing some errors
+14:21 - Final result after running the Instagram bot 
+
+Python and VSCode download link:
+https://www.python.org/downloads/
+https://code.visualstudio.com/download
+
+Instabot python package docs:
+https://instagrambot.github.io/docs/en/For_developers.html","['instagram bot python', 'instagram bot python 2022', 'instagram bot 2022', 'python instagram bot', 'instabot python', 'python instabot', 'instagram bot python tutorial', 'Instagram automation with python', 'instagram dm bot', 'instagram automation', 'instagram follow bot', 'instagram comment bot', 'how to make instagram bot python', 'python projects', 'instagram bot', 'instagram bot tutorial', 'instagram bot python code', 'create instagram bot python', 'instagram automation 2022', 'instagram bot for beginner']"
+1,Coding 101 with Steve,PyAutoGUI - Locate anything on your screen | Simple Pyautogui project,51785,1163,143,hd,2d,"This is the second tutorial video on PyAutoGUI. In this tutorial I will teach you to locate anything on your screen using locateCenterOnScreen() metod which is the most important function of PyAutoGUI python library and then show a simple pyautogui project using the locate center on screen function.
+
+The English Scholar Online Camp channel link:
+https://www.youtube.com/c/TheEnglishScholarOnlineCamp
+
+Python and VS Code download:
+https://www.python.org/downloads/
+https://code.visualstudio.com/download","['pyautogui', 'pyautogui locate on screen', 'pyautogui projects', 'pyautogui 2022', 'simple pyautogui project', 'locate on screen pyautogui', 'pyautogui locate on screen and click', 'pyautogui tutorial', 'python pyautogui', 'pyautogui automate the boring stuff', 'pyautogui python tutorial', 'python3 pyautogui', 'python automation projects', 'pyautogui python', 'gui automation using python', 'python automation', 'computer GUI automation', 'locate on screen not working', 'pyautogui bot']"
+2,Coding 101 with Steve,PyAutoGUI - Computer GUI automation using Python (Control mouse and keyboard),11534,246,38,hd,2d,"This is the first tutorial video on PyAutoGUI, a computer GUI automation package. In this PyAutoGUI tutorial I will teach you how to control your mouse and keyboard using functions of PyAutoGUI python library and then show a sample project. Using this package you can automate anything on your computer.
+
+So basically this is PyAutoGUI tutorial on mouse and keyboard functions
+
+Timestamps:
+0:00 - PyAutoGUI introduction 
+1:07 - Install and import pyautogui
+1:35 - pyautogui mouse operations (automate mouse)
+10:11 - pyautogui keyboard operations (automate keyboard)
+11:44 - A simple project to open notepad and type something
+
+Python and VS Code download
+https://www.python.org/downloads/
+https://code.visualstudio.com/download","['pyautogui', 'pyautogui tutorial', 'pyautogui full tutorial', 'pyautogui automate the boring stuff', 'pyautogui python tutorial', 'python pyautogui', 'pyautogui keyboard', 'pyautogui mouse', 'python3 pyautogui', 'python mouse control', 'python keyboard control', 'python automation projects', 'pyautogui python', 'pyautogui 2022', 'gui automation using python', 'pyautogui mouse click', 'automate everything on your computer', 'python cool projects', 'python automation', 'computer GUI automation', 'gui automation']"
+3,Coding 101 with Steve,Streamlit tutorial - The fastest way to build web apps in python [2022-23],5869,175,21,hd,2d,"Streamlit tutorial - This is a beginner's guide to get started with Streamlit. 
+Streamlit python is one of the fastest way to build web apps. 
+
+Streamlit turns data scripts into shareable web apps in minutes.
+All in pure Python. No front‑end experience required.
+
+In this Streamlit tutorial, You will learn what is streamlit, How to run your web app on local server in just 2 minutes and then learn some of the basic functions to insert elements on your web page.
+
+If you're looking to learn how to build web apps in python, then this tutorial is for you! I'm going to show you how to use Streamlit to create a web app in just a few short minutes. After watching this tutorial, you'll have the skills you need to create web applications in Python.
+
+Timestamps:
+0:00 - What is Streamlit?
+0:20 - How to install Streamlit
+0:42 - Run Streamlit on the local server
+1:18 - Streamlit title
+1:45 - Streamlit header & Streamlit subheader
+2:10 - Streamlit text 
+2:24 - Streamlit success, info, warning, error
+3:10 - Streamlit write
+4:04 - Streamlit code
+4:42 - Streamlit checkbox
+5:20 - Streamlit radio
+5:52 - Streamlit image
+6:29 - Streamlit selectbox
+7:04 - Streamlit multiselect
+7:50 - Streamlit text input box
+8:22 - Streamlit button
+8:55 - Streamlit slider
+
+
+#streamlit #streamlittutorial #streamlitpython","['streamlit', 'streamlit tutorial', 'streamlit python', 'python streamlit', 'streamlit python tutorial', 'streamlit for beginners', 'learn streamlit', 'how to use streamlit', 'streamlit 101', 'python data science streamlit', 'intro to streamlit', 'streamlit basic tutorial', 'streamlit tutorial for beginners', 'streamlit in vscode', 'streamlit in python', 'streamlit basics', 'streamlit basic functions', 'how to install streamlit in python']"
+4,Coding 101 with Steve,Streamlit Sidebar and Columns | Streamlit Tutorial [2022],3135,26,2,hd,2d,"In this Streamlit sidebar tutorial, we're going to be creating a sidebar and columns in Streamlit Python web app. This will be a great tutorial for beginners who are new to Streamlit, or who haven't used Streamlit in a while.
+
+If you're a beginner or a veteran Streamlit user, this tutorial is for you! By the end of this tutorial, you'll have learned how to create a sidebar and columns in your Streamlit project, and be able to use Streamlit more efficiently!
+
+Streamlit python is one of the fastest way to build web apps. 
+
+Streamlit turns data scripts into shareable web apps in minutes.
+All in pure Python. No front‑end experience required.
+
+#streamlit #streamlittutorial","['streamlit tutorial', 'streamlit', 'streamlit python', 'streamlit sidebar', 'streamlit sidebar and columns', 'streamlit sidebar menu', 'streamlit columns', 'how to add sidebar in streamlit', 'streamlit tutorial for beginners', 'streamlit tutorial to add sidebar and columns', 'python streamlit']"
+5,Coding 101 with Steve,YouTube Automation - How To Use ChatGPT To Automate Video Uploading🔥,2724,60,5,hd,2d,"YouTube Automation - In this video, I'm going to show you How To Use ChatGPT To Automate Video Uploading process on Youtube 
+
+Uploading video automatically with title and description is an important part of YouTube Automation. 
+
+ChatGPT is a great way to save time and increase your productivity.
+So I automated the video upload process on YouTube using ChatGPT.
+
+Here I'll show you how to use ChatGPT.
+If you're looking for a way to make your YouTube video uploading process easier, then you need to watch this video! By using ChatGPT, I was able to automate the video upload process on my channel, which has saved me a lot of time and hassle!
+
+ChatGPT can provide you details on YouTube automation step by step
+
+Hope you learn something for YouTube automation!
+
+---- DISCLAIMER ----
+The materials used are for educational and commentary purposes under the Fair Use doctrine, which permits the use of copyrighted material for certain purposes, such as criticism, comment, news reporting, teaching, scholarship, and research. We believe that our use of the copyrighted material falls under the Fair Use doctrine and is not an infringement of copyright. If you are the owner of any copyrighted material and believe that our use of it is not in compliance with the Fair Use doctrine, please contact us.
+
+YouTube automation
+YouTube automation tutorial
+automation YouTube
+YouTube automation step by step
+chatgpt
+how to use chatgpt
+chatgpt examples
+what is youTube automation","['youtube automation', 'how to use chatgpt', 'youtube automation tutorial', 'chatgpt', 'chatgpt coding', 'chatgpt how to use', 'youtube automation step by step', 'youtube automation using chatgpt', 'youtube video auto upload', 'automate youtube video upload', 'what is youtube automation', 'youtube automation channels', 'chatgpt examples', 'i tried youtube automation', 'automation youtube', 'chatgpt use cases', 'openai chatgpt', 'upload video to youtube automatically', 'chatgpt youtube automation']"
+6,Coding 101 with Steve,WhatsApp Bot (Send WhatsApp message automatically using python) [Just 2 lines of code],2200,36,19,hd,2d,"In this video I will show you how to create your own WhatsApp bot to send WhatsApp message automatically using python in just 2 lines of code. I will be using a simple python library named pywhatkit.
+Whatsapp bot python
+
+Prerequisite:
+WhatsApp web login steps:
+
+Step 1. Open WhatsApp on your phone.
+Android: Tap More options.
+iPhone: Go to WhatsApp Settings.
+
+Step 2. Tap Linked Devices.
+Android: Tap LINK A DEVICE. Follow the on-screen instructions if your device has biometric authentication. If you don’t have biometric authentication enabled, you’ll be prompted to enter the pin you use to unlock your phone.
+iPhone: Tap Link a Device - OK. On iOS 14 and above, use Touch ID or Face ID to unlock. If you don’t have biometric authentication enabled, you’ll be prompted to enter the pin you use to unlock your phone.
+
+Step 3 Select the checkbox next to Keep me signed in on the QR screen on your computer or Portal to stay logged in on this device.
+
+Step 4. Use your phone to scan the QR code on your computer or Portal.
+
+Step 5. If prompted, tap or select Done.
+
+Whatsapp bot code:
+https://docs.google.com/document/d/1NFhrRhjUE7rZ1ln945A9xOEk1T1-SppIB-IHNdJksEA/edit?usp=sharing
+
+Timestamps:
+0:00 - Introduction
+0:05 - What you'll learn?
+0:27 - pywhatkit overview
+1:07 - Install and import pywhatkit library 
+1:55 - Send whatsapp message automatically (whatsapp bot)
+4:30 - Easy python project idea on whatsapp automation","['whatsapp bot', 'whatsapp bot to Send WhatsApp message automatically using python', 'whatsapp bot in just 2 lines of code', 'WhatsApp automation In just 2 lines of code', 'whatsapp bot python', 'whatsapp bot for sending messages', 'how to make a whatsapp bot', 'how to create whatsapp bot', 'whatsapp automation using python', 'whatsapp bot to send whatsapp messages', 'whatsapp message python script', 'pywhatkit 2022', 'pywhatkit python 2022', 'python projects', 'whatsapp bot pywhatkit']"
+7,Coding 101 with Steve,Lead Generation Tutorial - Get Quality Leads Targeted By Location [FREE Tool],2199,37,9,hd,2d,"Have you been in the lead generation game for a while but not getting the results you want? This lead generation tutorial is perfect for you! I'll show you how to use my free tool to generate quality leads targeted by location. 
+It is easy to use and don't require any coding.
+
+This lead generation tutorial is a great way to learn how to generate leads for your business.
+
+Lead generation is the process of finding potential customers for a business. One effective way to generate leads is to use Google Maps to gather information about local businesses in any part of the world.
+
+This tool allows businesses to find and contact potential customers in their local area. 
+One of the key benefits of using Google Maps for lead generation is that it allows businesses to target a specific geographic area. This can save time and money.
+
+Another benefit of using this b2b lead generation tool to gather detailed information which can include contact information, business hours, reviews, ratings and more.
+
+Using this tool for lead generation, businesses can search for potential customers in their local area and then use the information to contact them. 
+
+--Disclaimer--
+""The information provided in this video is for educational purposes only and should not be taken as professional advice. Please seek the advice of a professional before taking any action based on the content present in this video.""
+
+--Public/shared Google--
+Link to download the tool - http://bitly.ws/yXMo
+
+---- DISCLAIMER ----
+The materials used are for educational and commentary purposes under the Fair Use doctrine, which permits the use of copyrighted material for certain purposes, such as criticism, comment, news reporting, teaching, scholarship, and research. We believe that our use of the copyrighted material falls under the Fair Use doctrine and is not an infringement of copyright. If you are the owner of any copyrighted material and believe that our use of it is not in compliance with the Fair Use doctrine, please contact us.","['lead generation', 'lead generation tutorial', 'b2b lead generation', 'lead generation business', 'lead generation tutorial for beginners', 'how to generate leads', 'lead generation smma', 'real estate lead generation', 'lead generation tools', 'lead generation 2023', 'gmap lead generation', 'google maps lead generation', 'gmap scraper', 'gmaps lead generator', 'lead generation real estate', 'lead generation full course', 'lead gen', 'lead generation course', 'organic lead generation', 'lead generation software']"
+8,Coding 101 with Steve,Pytesseract - Convert image to text using Python in just 3 lines of code,1004,17,4,hd,2d,"In this video, you'll learn to create your own image to text converter with Pytesseract OCR in python in Just 3 Lines of code.
+
+By using the pytesseract library, you can easily convert image to text using just a few lines of code. This library is widely used in image recognition and text recognition applications, so it's a great way to convert image to text. In this video, we'll show you how to use the pytesseract library to convert an image to text.
+
+Timestamps
+0:00 - Introduction
+0:11 - What is OCR? 
+0:22 - Pre-requisites
+0:44 - Install tesseract OCR
+1:32 - Install Pytesseract
+1:50 - Install OpenCV
+2:01 - Read image using OpenCV
+2:09 - Use tesseract OCR
+2:26 - Pytesseract image to text function
+2:33 - Image to text output
+
+
+#tesseract #pytesseract #imagetotext","['pytesseract', 'pytesseract ocr', 'tesseract ocr', 'ocr', 'pytesseract python', 'pytesseract tutorial', 'pytesseract tutorial python', 'ocr python tutorial', 'tesseract ocr python', 'image to text', 'image to text converter', 'image to text online', 'image to text in python', 'image to text python opencv', 'image into text converter', 'pytesseract image to text python', 'how to convert image to text', 'what is ocr', 'tesseract', 'tesseract ocr tutorial', 'python']"
+9,Coding 101 with Steve,Adsense Loading - All You Need To Know About Adsense Loading Method In 2023,764,15,2,hd,2d,"Adsense Loading - Are you struggling to earn a decent income through Google AdSense and considering using the Adsense Loading Method? 
+
+Beware! In this video, we will expose the truth behind Adsense Loading Tricks and whether it is safe or genuine method to increase your AdSense revenue?
+
+Will you get banned if you use Adsense Loading Tricks?
+
+In 2023, Google is smarter than ever and can easily detect Adsense Loading methods, leaving content creators and bloggers with no revenue earned through their deceptive practices.
+
+So, before considering Adsense Loading methods, watch this video and understand the consequences of using such bad practices. Don't fall prey to scammers, they promise to increase your AdSense revenue by sending hundreds and thousands of clicks and generating traffic to your website, and instead use genuine methods to earn a sustainable income through AdSense.
+
+---- DISCLAIMER ----
+The materials used are for educational and commentary purposes under the Fair Use doctrine, which permits the use of copyrighted material for certain purposes, such as criticism, comment, news reporting, teaching, scholarship, and research. We believe that our use of the copyrighted material falls under the Fair Use doctrine and is not an infringement of copyright. If you are the owner of any copyrighted material and believe that our use of it is not in compliance with the Fair Use doctrine, please contact us.
+
+#adsenseloading","['adsense loading', 'adsense loading method', 'adsense loading method 2023', 'google adsense loading', 'google adsense loading method', 'what is adsense loading', 'adsense loading trick', 'adsense loading trick 2023', 'adsense loading 2023', 'adsense loading course', 'adsense loading kya hai', 'adsense loading kaise kare', 'adsense loading safe method', 'google adsense safe loading', 'google adsense loading 2023']"
+10,Coding 101 with Steve,Python Internet Speedtest Checker in Just 4 Lines of Code #pythonprojects #shorts,744,47,0,hd,2d,"Create an Internet Speedtest Checker using Python with just 4 lines of code
+
+Python  Internet Speedtest Checker 
+#pythonforbeginners #python3 #pythonprogramming #pythontutorial","['Python internet speedtest', 'python internet speed test', 'speedtest python', 'python internet speed test code', 'python internet speed', 'python internet speed check', 'internet speed test with python', 'speedtest cli python', 'how to check internet speed using python', 'test internet speed using python', 'how to do internet speed test using python', 'internet speed test using python']"
+11,Coding 101 with Steve,An ULTIMATE Prompt Engineering Course - Learn ChatGPT Prompting Secrets,714,22,2,hd,2d,"Prompt Engineering Course : In this video, I will introduce you to the world of ChatGPT Prompt Engineering. What is prompt? What is prompt engineering? ChatGPT prompts secrets.
+If you are just starting out then this video is for you. It is an ultimate guide to prompt engineering. You will learn how to write chatGPT prompts effectively.
+
+These prompting techniques will help you to generate new ideas, write prompts more effectively and efficiently.
+
+You'll learn, 
+What is a prompt? 
+What is Prompt Engineering? 
+Types of Prompting with multiple examples.
+
+With the help of ChatGPT, we'll learn different types of prompting with examples. 
+
+From basic chatGPT prompts to more advanced techniques, This video will give you the start that you need.
+
+----Chapters Timestamp-----
+0:00 - What is Prompt?
+0:09 - What is Prompt Engineering?
+0:23 - Types of Prompting
+0:26 - Instruction Prompting
+0:38 - Instruction Prompting Example / Use case 1
+1:36 - Instruction Prompting Example / Use case 2
+2:21 - Instruction Prompting Example / Use case 3
+2:57 - Role Prompting
+3:19 - Role Prompting Example / Use case
+3:39 - Standard Prompting Example / Use case
+4:10 - Context Prompting
+4:22 - Context Prompting Example / Use Case
+
+---- DISCLAIMER ----
+The materials used are for educational and commentary purposes under the Fair Use doctrine, which permits the use of copyrighted material for certain purposes, such as criticism, comment, news reporting, teaching, scholarship, and research. We believe that our use of the copyrighted material falls under the Fair Use doctrine and is not an infringement of copyright. If you are the owner of any copyrighted material and believe that our use of it is not in compliance with the Fair Use doctrine, please contact us.","['prompt engineering', 'prompt engineering chatgpt', 'what is prompt engineering', 'chatgpt prompt engineering', 'chat gpt prompt engineering', 'learn prompting', 'prompt engineering gpt 3', 'chat gpt', 'prompt engineering course', 'prompt engineering 101', 'prompt engineer', 'ULTIMATE Guide To Prompt Engineering', 'learn prompt engineering', 'what is prompt', 'what is prompting', 'chat gpt prompting', 'chat gpt prompts', 'chatgpt prompts', 'how to use chat gpt', 'ultimate prompt guide']"
+12,Coding 101 with Steve,Python Code To Iterate Over Two Lists At Once | Python Tips & Tricks #1 #pythontips #shorts,363,11,2,hd,2d,"Want to Loop over two or more lists in Python? Check my Python code To Iterate Over Two Lists At Once. 
+
+Check this python trick to iterate over two lists at the same time using for loop.
+
+#pythonforbeginners #pythonprogramming #pythontutorial #python #python3","['python iterate over two lists', 'python iterate over multiple lists', 'python code to loop through two lists', 'python code to loop through multiple lists', 'iterate over two lists at one using python', 'iterate two lists using python', 'python for beginners', 'python programming', 'python tutorial']"
+13,Coding 101 with Steve,GPT4 - What's New In This Game Changing AI Model?,290,2,1,hd,2d,"GPT4 - In this video I will be exploring the newly launched OpenAI model GPT 4. You'll see what's new in this game changing model?
+
+I'll also give you a sneak peak at some of the new features of GPT4 and how it is better from chatGPT and earlier models.
+So be sure to watch and learn about GPT4 AI in this informative video!
+
+
+
+Learn more about GPT 4 from OpenAI's official website :
+https://openai.com/research/gpt-4
+
+---- DISCLAIMER ----
+The materials used are for educational and commentary purposes under the Fair Use doctrine, which permits the use of copyrighted material for certain purposes, such as criticism, comment, news reporting, teaching, scholarship, and research. We believe that our use of the copyrighted material falls under the Fair Use doctrine and is not an infringement of copyright. If you are the owner of any copyrighted material and believe that our use of it is not in compliance with the Fair Use doctrine, please contact us.","['gpt4', 'gpt 4', 'gpt-4', 'gpt4 review', 'gpt4 openai', 'ai gpt 4', 'gpt4 demo', 'gpt-4 ai', 'gpt 4 vs chatgpt', 'gpt 4 vs gpt 3.5', 'gpt4 features', 'gpt 4 ai', 'gpt4 ai', 'what is gpt 4', ""what's new in gpt 4"", 'artificial intelligence', 'gpt3', 'openai gpt 4', 'openai gpt4', 'gpt 4 openai']"
+14,Coding 101 with Steve,I Created My Own ChatGPT Using Python - Power Of Web Scraping,238,7,3,hd,2d,"In this video I'm going to share with you how I created my own chatGPT using Python. Using a simple logic I made my own chatGPT. 
+
+Have you ever thought of making your own chatGPT? I did. In this video I'll show you how I used python and web scraping to buid my own chatGPT.
+
+This is more of a simple web scraping project, a simple python flask app where I made my own chatbot. 
+
+chatGPT is a tool that allows us to interact with a chatbot from a web page, and we're going to be using it to make eb scraping project.
+
+This is a really interesting project, and I hope you enjoy it!
+
+*************************
+This video is for education purpose only.
+*************************
+Github link - https://bit.ly/3KEKrvD
+
+---- DISCLAIMER ----
+The materials used are for educational and commentary purposes under the Fair Use doctrine, which permits the use of copyrighted material for certain purposes, such as criticism, comment, news reporting, teaching, scholarship, and research. We believe that our use of the copyrighted material falls under the Fair Use doctrine and is not an infringement of copyright. If you are the owner of any copyrighted material and believe that our use of it is not in compliance with the Fair Use doctrine, please contact us.","['chatgpt python', 'chatgpt using python', 'create chatgpt', 'chat gpt', 'chatgpt', 'chatgpt flask python', 'create your own chatgpt', 'build your own chatgpt', 'creating chat gpt using python', 'how to make chat gpt', 'chatgpt tutorial for developers', 'web scraping project', 'flask app project', 'chat gpt using javascript', 'make your own chatgpt', 'advanced chatgpt', 'how to create my own chat gpt', 'python', 'python chatgpt']"
+15,Coding 101 with Steve,HTML to PDF - This FREE Tool Converts Your Pages in Seconds!,193,3,2,hd,2d,"Do you want to convert your HTML pages into PDFs?
+This HTML to PDF tool is FREE and it works really well.
+It can take just a few seconds to convert your pages and it will give you an output that looks pretty awesome! No coding required!
+
+Watch this video till the end, I have explained how to convert HTML to PDF step by step. And You'll see how it takes less than 10 seconds to perform.
+
+Also you can convert webpages into PDF file.","['html to pdf', 'html to pdf converter', 'convert html to pdf', 'html to pdf free', 'html to pdf free tool', 'html to pdf without coding', 'html to pdf tutorial', 'change html to pdf', 'how to convert html to pdf', 'how can i convert html to pdf', 'webpage to pdf', 'convert webpage to pdf', 'how to convert webpage to pdf', 'html to pdf in seconds', 'easy html to pdf', 'convert html to pdf 2022', 'html to pdf 2022', 'best tool for converting html to pdf', 'convert html page to pdf', 'html into pdf']"
+16,Coding 101 with Steve,Python | 99% Failed To Guess The Output ! #pythonforbeginners #python  #shorts,135,7,0,hd,2d,"This video is about guessing the output of a python program.
+99% failed to guess the output. So Give it a try!!!
+
+#pythonforbeginners #pythonquestions #python3 #pythonprogramming #python #pythontutorial","['python guess the output', 'guess the output python', 'python', 'python for beginners']"
